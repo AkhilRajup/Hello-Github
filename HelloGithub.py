@@ -1,5 +1,5 @@
 #  This is a test file for GitHub Uploads
 
-print("Hello Github !")
+print("Hello GitHub!")
 name = input("Name: ")
-print(name, "has officially used github!")
+print(name, "has officially used GitHub!")
